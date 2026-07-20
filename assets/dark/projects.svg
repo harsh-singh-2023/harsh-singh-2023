@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 1690" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fifteen projects by Sharann Manojkumar">
+<svg viewBox="0 0 1000 1690" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fifteen projects by Harsh Singh">
   <style>
     :root { --ink:#000000; --paper:#FFFFFF; }
     @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; } }
@@ -18,108 +18,108 @@
 
   <g class="mono">
     <g class="row r1" transform="translate(0 20)">
-      <text class="title" x="48" y="24">01 / API KEYCHAIN</text>
-      <text class="copy" x="48" y="49">Unified LLM gateway across eight inference networks, with encrypted credential storage and one consistent provider interface.</text>
-      <text class="copy" x="48" y="68">Tracks requests and usage analytics while protecting API keys with AES-256-GCM encryption.</text>
-      <text class="meta" x="48" y="87">NEXT.JS · TYPESCRIPT · FASTAPI · PYTHON · SUPABASE · SECURITY</text>
+      <text class="title" x="48" y="24">01 / ZERO-TRUST EDR</text>
+      <text class="copy" x="48" y="49">Designed a 5D behavioural risk-scoring model to detect state-sponsored APTs targeting DRDO.[cite: 2]</text>
+      <text class="copy" x="48" y="68">Achieved 97.5% detection accuracy and 2.0% false-positive rate across 200 attack scenarios.[cite: 2]</text>
+      <text class="meta" x="48" y="87">C++ · REACT.JS · TYPESCRIPT · CYBER SECURITY</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r2" transform="translate(0 130)">
-      <text class="title" x="48" y="24">02 / PROPOSALOS</text>
-      <text class="copy" x="48" y="49">AI-assisted RFP discovery and response platform built at Ambian Strategy from the initial architecture onward.</text>
-      <text class="copy" x="48" y="68">Collects opportunities from 11+ procurement portals, scores business fit, and reduces response work from days to hours.</text>
-      <text class="meta" x="48" y="87">NEXT.JS · FASTAPI · PYTHON · SUPABASE · SCRAPING · AI FIT-SCORING</text>
+      <text class="title" x="48" y="24">02 / COGNIHELM</text>
+      <text class="copy" x="48" y="49">Engineered a retrofittable embedded safety system with alcohol interlock and crash detection.[cite: 2]</text>
+      <text class="copy" x="48" y="68">Built a 4-level priority-interrupt firmware stack delivering crash-response latency under 300 ms.[cite: 2]</text>
+      <text class="meta" x="48" y="87">ESP32 · FREERTOS · MQTT · EMBEDDED SYSTEMS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r3" transform="translate(0 240)">
-      <text class="title" x="48" y="24">03 / KERN</text>
-      <text class="copy" x="48" y="49">Keyboard-driven personal data OS with schema-flexible JSONB storage and connected views for information and workflows.</text>
-      <text class="copy" x="48" y="68">Integrates GitHub, Notion, calendars, Linear and RSS, then exposes personal data through an MCP server.</text>
-      <text class="meta" x="48" y="87">REACT · TYPESCRIPT · POSTGRESQL · SUPABASE · JSONB · MCP</text>
+      <text class="title" x="48" y="24">03 / AI COMPANION AGENT</text>
+      <text class="copy" x="48" y="49">Built a viral full-stack AI agent implementing contextual memory and emotion sentiment detection.[cite: 2]</text>
+      <text class="copy" x="48" y="68">Scaled to 70,000+ users in 24 hours, optimizing cold-start latency via edge function deployment.[cite: 2]</text>
+      <text class="meta" x="48" y="87">NEXT.JS · ANTHROPIC API · EDGE FUNCTIONS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r4" transform="translate(0 350)">
-      <text class="title" x="48" y="24">04 / COSMOS</text>
-      <text class="copy" x="48" y="49">Terminal-native AI chatbot with a rich keyboard-first interface, file attachments, Markdown output and conversation history.</text>
-      <text class="copy" x="48" y="68">Provides access to 25+ language models through OpenRouter without forcing developers to leave the terminal.</text>
-      <text class="meta" x="48" y="87">PYTHON · TEXTUAL · OPENROUTER · TUI · CLI</text>
+      <text class="title" x="48" y="24">04 / LUMA SPACE PLATFORM</text>
+      <text class="copy" x="48" y="49">Built a complete D2C e-commerce tech stack independently with a serverless AWS backend.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Scaled to 5,000+ active users and implemented marketing automation and analytics dashboards.[cite: 3]</text>
+      <text class="meta" x="48" y="87">AWS LAMBDA · NODE.JS · E-COMMERCE · ANALYTICS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r5" transform="translate(0 460)">
-      <text class="title" x="48" y="24">05 / HALLUCINATION SUPPRESSION</text>
-      <text class="copy" x="48" y="49">Research pipeline combining confidence scoring, named-entity routing, Wikidata evidence retrieval and contradiction checks.</text>
-      <text class="copy" x="48" y="68">Uses RoBERTa natural-language inference and explores a blockchain audit layer for traceable verification results.</text>
-      <text class="meta" x="48" y="87">PYTHON · TRANSFORMERS · NLP · WIKIDATA · ROBERTA · BLOCKCHAIN · SRIP 2026</text>
+      <text class="title" x="48" y="24">05 / SENTIAID</text>
+      <text class="copy" x="48" y="49">Architected an AI-powered sign language translator using NLP and custom neural networks.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Processed 60,000+ words with Named Entity Recognition and deployed real-time REST APIs.[cite: 3]</text>
+      <text class="meta" x="48" y="87">NLP · NEURAL NETWORKS · PYTHON · REST APIS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r6" transform="translate(0 570)">
-      <text class="title" x="48" y="24">06 / LANDROID</text>
-      <text class="copy" x="48" y="49">Land-intelligence workflow for drone-captured orthomosaic GeoTIFF imagery, delivered through a cross-platform client.</text>
-      <text class="copy" x="48" y="68">Derives NDVI insights, plant-health zones, tree counts and map overlays from geospatial source data.</text>
-      <text class="meta" x="48" y="87">FLUTTER · FASTAPI · PYTHON · SUPABASE · POSTGIS · GEOTIFF</text>
+      <text class="title" x="48" y="24">06 / MYFINPORTFOLIO</text>
+      <text class="copy" x="48" y="49">Architected production-ready features for web applications serving real-time FinTech data.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Optimised critical database queries, reducing latency on high-frequency financial data reads.[cite: 3]</text>
+      <text class="meta" x="48" y="87">REACT.JS · NODE.JS · EXPRESS · FINTECH</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r7" transform="translate(0 680)">
-      <text class="title" x="48" y="24">07 / STUDENT DASHBOARD</text>
-      <text class="copy" x="48" y="49">Unified academic workspace for VIT students that replaces scattered information with one practical daily interface.</text>
-      <text class="copy" x="48" y="68">Combines attendance tracking, timetable access and planning tools around common student workflows.</text>
-      <text class="meta" x="48" y="87">REACT · NODE.JS · TYPESCRIPT · POSTGRESQL · ACADEMIC TOOLS</text>
+      <text class="title" x="48" y="24">07 / PGFY FRONTEND</text>
+      <text class="copy" x="48" y="49">Developed the flagship product frontend focusing on responsive UI architecture and component reusability.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Reduced page load time through lazy loading and memoisation strategies across the codebase.[cite: 3]</text>
+      <text class="meta" x="48" y="87">REACT.JS · GIT/GITHUB · AGILE · FRONTEND</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r8" transform="translate(0 790)">
-      <text class="title" x="48" y="24">08 / ARBOR</text>
-      <text class="copy" x="48" y="49">Visual problem-solving environment where each problem becomes a navigable hierarchy of tasks and sub-problems.</text>
-      <text class="copy" x="48" y="68">Supports decomposition, backtracking and AI-assisted reasoning through an interactive node-based canvas.</text>
-      <text class="meta" x="48" y="87">REACT · TYPESCRIPT · REACT FLOW · OPENAI API · INTERACTION DESIGN</text>
+      <text class="title" x="48" y="24">08 / FRAUDSHIELD API</text>
+      <text class="copy" x="48" y="49">Designed a fraud-detection API side project to identify anomalies in transaction pipelines.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Motivated by real-world financial transaction pipeline patterns observed during FinTech internship.[cite: 3]</text>
+      <text class="meta" x="48" y="87">FINTECH · API DEVELOPMENT · FRAUD DETECTION</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r9" transform="translate(0 900)">
-      <text class="title" x="48" y="24">09 / NOTIONWIDGETS</text>
-      <text class="copy" x="48" y="49">Native iOS app that turns Notion databases into configurable home-screen widgets for frequently checked information.</text>
-      <text class="copy" x="48" y="68">Designed for schedules, tasks and academic events, with WidgetKit rendering and smart database filtering.</text>
-      <text class="meta" x="48" y="87">SWIFT · SWIFTUI · WIDGETKIT · NOTION API · IOS</text>
+      <text class="title" x="48" y="24">09 / OUTLIER LLM EVALUATION</text>
+      <text class="copy" x="48" y="49">Evaluated and refined outputs of large language models using RLHF across advanced STEM domains.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Engineered prompts across 10+ parameter configurations to benchmark instruction-following and accuracy.[cite: 3]</text>
+      <text class="meta" x="48" y="87">RLHF · PROMPT ENGINEERING · STEM · AI QA</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r10" transform="translate(0 1010)">
-      <text class="title" x="48" y="24">10 / PLANNER</text>
-      <text class="copy" x="48" y="49">Native productivity planner focused on clear task scheduling, deadlines and prioritization without interface clutter.</text>
-      <text class="copy" x="48" y="68">Uses persistent local data and SwiftUI components to provide a responsive, platform-consistent planning experience.</text>
-      <text class="meta" x="48" y="87">SWIFT · SWIFTUI · CORE DATA · IOS</text>
+      <text class="title" x="48" y="24">10 / FINANCIAL DATA PIPELINE</text>
+      <text class="copy" x="48" y="49">Built data cleaning, validation, and transformation pipelines in Python and Excel.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Designed Power BI dashboards to visualise key financial metrics and surface actionable insights.[cite: 3]</text>
+      <text class="meta" x="48" y="87">PYTHON · PANDAS · POWER BI · EXCEL</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r11" transform="translate(0 1120)">
-      <text class="title" x="48" y="24">11 / LOBE</text>
-      <text class="copy" x="48" y="49">Personal knowledge OS that brings thoughts, projects and life administration into one connected web workspace.</text>
-      <text class="copy" x="48" y="68">Combines rich documents, databases, calendars, kanban boards and a visual map of connected information.</text>
-      <text class="meta" x="48" y="87">TYPESCRIPT · REACT · POSTGRESQL · KNOWLEDGE SYSTEMS</text>
+      <text class="title" x="48" y="24">11 / EDR SIMULATION ENGINE</text>
+      <text class="copy" x="48" y="49">Shipped a live simulation on Vercel for the Zero-Trust EDR risk-scoring model.[cite: 2]</text>
+      <text class="copy" x="48" y="68">Tested 200 attack scenarios including SideCopy APT, Babuk Locker 2.0, and C2 exfiltration.[cite: 2]</text>
+      <text class="meta" x="48" y="87">REACT.JS · VERCEL · SIMULATION · CYBER SECURITY</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r12" transform="translate(0 1230)">
-      <text class="title" x="48" y="24">12 / BILLING SYSTEM</text>
-      <text class="copy" x="48" y="49">Full-stack billing and inventory platform with dynamic customer sales, multi-product invoices and reusable templates.</text>
-      <text class="copy" x="48" y="68">Uses a flexible JSONB schema and JWT authorization across admin, franchise and cashier role boundaries.</text>
-      <text class="meta" x="48" y="87">NODE.JS · EXPRESS · TYPESCRIPT · POSTGRESQL · JSONB · JWT</text>
+      <text class="title" x="48" y="24">12 / CYBER THREAT RESPONSE</text>
+      <text class="copy" x="48" y="49">Worked on active cyber threat response and digital forensics for the UP Police program.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Gained hands-on exposure to cyber crime investigation workflows and evidence handling.[cite: 3]</text>
+      <text class="meta" x="48" y="87">DIGITAL FORENSICS · INCIDENT RESPONSE · SECURITY</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r13" transform="translate(0 1340)">
-      <text class="title" x="48" y="24">13 / TERMINALTYPE</text>
-      <text class="copy" x="48" y="49">Monkeytype-inspired terminal typing test designed for developers who prefer fast, keyboard-only tools.</text>
-      <text class="copy" x="48" y="68">Calculates words per minute and accuracy in real time, provides immediate feedback and installs through Homebrew.</text>
-      <text class="meta" x="48" y="87">JAVASCRIPT · NODE.JS · TUI · CLI · HOMEBREW</text>
+      <text class="title" x="48" y="24">13 / AI QUALITY ASSURANCE</text>
+      <text class="copy" x="48" y="49">Evaluated and rated content to inform AI model training for leading technology companies.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Analyzed complex data to provide insights for the continuous improvement of rating frameworks.[cite: 3]</text>
+      <text class="meta" x="48" y="87">AI MODEL TRAINING · DATA ANALYSIS · QA</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r14" transform="translate(0 1450)">
-      <text class="title" x="48" y="24">14 / FINSIGHT AI</text>
-      <text class="copy" x="48" y="49">AI-assisted fintech project developed for the ArcNight 2026 hackathon to make portfolio information easier to interpret.</text>
-      <text class="copy" x="48" y="68">Explores conversational financial analysis and portfolio intelligence through a focused web interface.</text>
-      <text class="meta" x="48" y="87">PYTHON · NEXT.JS · AI · FINTECH · ARCNIGHT 2026</text>
+      <text class="title" x="48" y="24">14 / SUPPLY CHAIN OPTIMIZATION</text>
+      <text class="copy" x="48" y="49">Implemented structured inventory management and demand planning practices for an FMCG business.[cite: 3]</text>
+      <text class="copy" x="48" y="68">Contributed to a ~30% reduction in operational inefficiencies through process improvement.[cite: 3]</text>
+      <text class="meta" x="48" y="87">OPERATIONS · INVENTORY CONTROL · DATA ANALYSIS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r15" transform="translate(0 1560)">
-      <text class="title" x="48" y="24">15 / COURSE &amp; MODULE RECOGNITION</text>
-      <text class="copy" x="48" y="49">Document-processing utility that identifies courses and modules by extracting structured codes from institutional files.</text>
-      <text class="copy" x="48" y="68">Automates repetitive academic-document classification and converts unstructured source material into usable records.</text>
-      <text class="meta" x="48" y="87">PYTHON · DOCUMENT PARSING · DATA EXTRACTION · AUTOMATION</text>
+      <text class="title" x="48" y="24">15 / POST-QUANTUM CRYPTO</text>
+      <text class="copy" x="48" y="49">Integrated post-quantum cryptographic defences into a threat detection framework.[cite: 2]</text>
+      <text class="copy" x="48" y="68">Leveraged CRYSTALS-Kyber / FIPS 203 and BB84 QKD to secure communications against future threats.[cite: 2]</text>
+      <text class="meta" x="48" y="87">CRYSTALS-KYBER · BB84 QKD · CRYPTOGRAPHY</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
   </g>
