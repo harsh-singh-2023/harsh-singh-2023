@@ -15,9 +15,7 @@
     @media (prefers-reduced-motion: reduce) {
       .axis,.m,.pulse,.ring { animation: none; } .axis{stroke-dashoffset:0} .m{opacity:1} .ring{opacity:0}
     }
-      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; }
-  :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
-</style>
+  </style>
 
   <line x1="48" y1="40" x2="1152" y2="40" stroke="var(--rule)"/>
   <text fill="var(--muted)" class="mono" x="48" y="28" font-size="11" letter-spacing="3.5">THE ROUTE SO FAR</text>
@@ -29,35 +27,35 @@
     <circle cx="100" cy="125" r="4" fill="var(--bone)"/>
     <line x1="100" y1="121" x2="100" y2="96" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="100" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2020</text>
-    <text fill="var(--bone)" class="mono" x="100" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Family Business Ops[cite: 3]</text>
+    <text fill="var(--bone)" class="mono" x="100" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Family Business Ops</text>
   </g>
 
   <g class="m m2">
     <circle cx="310" cy="125" r="4" fill="var(--bone)"/>
     <line x1="310" y1="129" x2="310" y2="154" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="310" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2023</text>
-    <text fill="var(--bone)" class="mono" x="310" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">VIT Vellore · SentiAid CTO[cite: 2]</text>
+    <text fill="var(--bone)" class="mono" x="310" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">VIT Vellore · SentiAid CTO</text>
   </g>
 
   <g class="m m3">
     <circle cx="520" cy="125" r="4" fill="var(--bone)"/>
     <line x1="520" y1="121" x2="520" y2="96" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="520" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2024</text>
-    <text fill="var(--bone)" class="mono" x="520" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Founded Luma Space[cite: 2, 3]</text>
+    <text fill="var(--bone)" class="mono" x="520" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Founded Luma Space</text>
   </g>
 
   <g class="m m4">
     <circle cx="730" cy="125" r="4" fill="var(--bone)"/>
     <line x1="730" y1="129" x2="730" y2="154" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="730" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2025</text>
-    <text fill="var(--bone)" class="mono" x="730" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">PGfy Frontend Intern[cite: 2]</text>
+    <text fill="var(--bone)" class="mono" x="730" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">PGfy Frontend Intern</text>
   </g>
 
   <g class="m m5">
     <circle cx="880" cy="125" r="4" fill="var(--bone)"/>
     <line x1="880" y1="121" x2="880" y2="96" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="880" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2026</text>
-    <text fill="var(--bone)" class="mono" x="880" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Outlier &amp; UP Police Intern[cite: 2, 3]</text>
+    <text fill="var(--bone)" class="mono" x="880" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Outlier &amp; UP Police Intern</text>
   </g>
 
   <g class="m m6">
@@ -65,12 +63,12 @@
     <circle class="pulse" cx="1060" cy="125" r="4.5" fill="var(--accent)"/>
     <line x1="1060" y1="129" x2="1060" y2="154" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="1060" y="172" font-size="11" letter-spacing="2" text-anchor="middle">NOW</text>
-    <text fill="var(--bone)" class="mono" x="1060" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">Final yr CS · open to roles[cite: 3]</text>
+    <text fill="var(--bone)" class="mono" x="1060" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">Final yr CS · open to roles</text>
   </g>
 
   <g class="m m7">
     <circle cx="1152" cy="125" r="3" fill="var(--dim)"/>
     <text fill="var(--dim)" class="mono" x="1152" y="105" font-size="10" letter-spacing="2" text-anchor="end">2027 →</text>
-    <text fill="var(--dim)" class="mono" x="1152" y="150" font-size="13" text-anchor="end">full-time engineering[cite: 3]</text>
+    <text fill="var(--dim)" class="mono" x="1152" y="150" font-size="13" text-anchor="end">full-time engineering</text>
   </g>
 </svg>
