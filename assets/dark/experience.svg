@@ -1,42 +1,78 @@
-<svg viewBox="0 0 1000 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — Ambian Strategy, VIT SRIP, GeoPacific Solutions, VIT Chennai">
+<svg viewBox="0 0 1000 890" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — TELUS Digital, Outlier, UP Police, Vishrav Technologies, PGfy, Gupta &amp; Shah, Luma Space, SentiAid, Family Business">
   <style>
     :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
-    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s}
+    .a1{animation-delay:.15s} .a2{animation-delay:.30s} .a3{animation-delay:.45s} .a4{animation-delay:.60s} .a5{animation-delay:.75s} .a6{animation-delay:.90s} .a7{animation-delay:1.05s} .a8{animation-delay:1.20s} .a9{animation-delay:1.35s}
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
       :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; }
   :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
 </style>
 
-  <line x1="120" y1="10" x2="120" y2="360" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+  <line x1="120" y1="10" x2="120" y2="880" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <g class="rise a1">
     <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Ambian Strategy · Full-Stack Developer Intern · Chennai</text>
-    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">built ProposalOS — AI-powered RFP discovery &amp; response platform from scratch</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">scraped 11+ procurement portals with AI fit-scoring · response time: days → two hours</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">TELUS Digital · Senior AI QA Rater</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">evaluate and rate content to inform AI model training</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">analyze complex data and provide insights for rating frameworks</text>
   </g>
 
   <g class="rise a2">
     <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">VIT Chennai · Summer Research Intern (SRIP 2026) · Dr. Sandhya P</text>
-    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">hallucination detection · confidence scoring → NER routing → Wikidata evidence retrieval</text>
-    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">RoBERTa NLI contradiction detection · blockchain audit layer · research paper published</text>
+    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">Outlier · AI Data Specialist (STEM) · Remote</text>
+    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">evaluate LLM outputs via RLHF across math, physics, and CS</text>
+    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">benchmark contextual accuracy across 10+ prompt configurations</text>
   </g>
 
   <g class="rise a3">
-    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text>
-    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">GeoPacific Solutions · Billing Developer Intern · Chennai · Mar–Jul</text>
-    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">JSONB PostgreSQL schema · JWT auth across admin / franchise / cashier roles</text>
-    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">Node.js / Express APIs for invoice lifecycle · inventory updates · reporting endpoints</text>
+    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
+    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">UP Police (APCSIP-2026) · Cyber Security Intern · Amroha</text>
+    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">active cyber threat response and digital forensics workflows</text>
+    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">hands-on exposure to cyber crime investigation and evidence handling</text>
   </g>
 
   <g class="rise a4">
-    <text class="mono" x="48" y="330" font-size="12" fill="var(--accent)" letter-spacing="2">2024 –</text>
-    <text class="mono" x="136" y="330" font-size="15" fill="var(--bone)">VIT Chennai · B.Tech Computer Science · Full-Stack &amp; iOS Track</text>
-    <text class="mono" x="136" y="356" font-size="14" fill="var(--muted)">iSpace Club — Web &amp; App Development department</text>
+    <text class="mono" x="48" y="330" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
+    <text class="mono" x="136" y="330" font-size="15" fill="var(--bone)">Vishrav Technologies · Full Stack Developer Intern · Bengaluru</text>
+    <text class="mono" x="136" y="356" font-size="14" fill="var(--muted)">shipped production-ready features handling real-time transaction data</text>
+    <text class="mono" x="136" y="378" font-size="14" fill="var(--muted)">optimized DB queries cutting latency and resolved 10+ production incidents</text>
+  </g>
+
+  <g class="rise a5">
+    <text class="mono" x="48" y="426" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text>
+    <text class="mono" x="136" y="426" font-size="15" fill="var(--bone)">PGfy · Frontend Developer Intern · Bengaluru</text>
+    <text class="mono" x="136" y="452" font-size="14" fill="var(--muted)">built flagship frontend in React.js, focusing on UI and performance</text>
+    <text class="mono" x="136" y="474" font-size="14" fill="var(--muted)">cut page load time via lazy loading and managed Git/GitHub releases</text>
+  </g>
+
+  <g class="rise a6">
+    <text class="mono" x="48" y="522" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text>
+    <text class="mono" x="136" y="522" font-size="15" fill="var(--bone)">Gupta &amp; Shah · Data Analyst Intern · Mumbai</text>
+    <text class="mono" x="136" y="548" font-size="14" fill="var(--muted)">built data cleaning and transformation pipelines in Python and Excel</text>
+    <text class="mono" x="136" y="570" font-size="14" fill="var(--muted)">designed Power BI dashboards to visualise key financial metrics</text>
+  </g>
+
+  <g class="rise a7">
+    <text class="mono" x="48" y="618" font-size="12" fill="var(--accent)" letter-spacing="2">24–26</text>
+    <text class="mono" x="136" y="618" font-size="15" fill="var(--bone)">Luma Space · Founder &amp; Lead Engineer · Bengaluru</text>
+    <text class="mono" x="136" y="644" font-size="14" fill="var(--muted)">built complete D2C tech stack with AWS backend scaling to 5,000+ users</text>
+    <text class="mono" x="136" y="666" font-size="14" fill="var(--muted)">incubated at NSRCEL, IIM Bangalore (Top 1% Startups Nationally)</text>
+  </g>
+
+  <g class="rise a8">
+    <text class="mono" x="48" y="714" font-size="12" fill="var(--accent)" letter-spacing="2">23–24</text>
+    <text class="mono" x="136" y="714" font-size="15" fill="var(--bone)">SentiAid · CTO &amp; ML Engineer · Vellore</text>
+    <text class="mono" x="136" y="740" font-size="14" fill="var(--muted)">architected AI sign-language translator processing 60,000+ words</text>
+    <text class="mono" x="136" y="762" font-size="14" fill="var(--muted)">led intern team of 20+; deployed REST APIs for real-time translation</text>
+  </g>
+
+  <g class="rise a9">
+    <text class="mono" x="48" y="810" font-size="12" fill="var(--accent)" letter-spacing="2">20–23</text>
+    <text class="mono" x="136" y="810" font-size="15" fill="var(--bone)">Family Business · Operations Executive · Kanpur</text>
+    <text class="mono" x="136" y="836" font-size="14" fill="var(--muted)">end-to-end supply chain management; supervised 20+ employees</text>
+    <text class="mono" x="136" y="858" font-size="14" fill="var(--muted)">implemented demand planning, reducing waste and increasing margins by ~15%</text>
   </g>
 </svg>
