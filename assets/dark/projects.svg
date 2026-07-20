@@ -19,106 +19,106 @@
   <g class="mono">
     <g class="row r1" transform="translate(0 20)">
       <text class="title" x="48" y="24">01 / ZERO-TRUST EDR</text>
-      <text class="copy" x="48" y="49">Designed a 5D behavioural risk-scoring model to detect state-sponsored APTs targeting DRDO.[cite: 2]</text>
-      <text class="copy" x="48" y="68">Achieved 97.5% detection accuracy and 2.0% false-positive rate across 200 attack scenarios.[cite: 2]</text>
-      <text class="meta" x="48" y="87">C++ · REACT.JS · TYPESCRIPT · CYBER SECURITY</text>
+      <text class="copy" x="48" y="49">Designed a 5D behavioural risk-scoring model to detect state-sponsored APTs targeting DRDO. </text>
+      <text class="copy" x="48" y="68">Achieved 97.5% detection accuracy and 2.0% false-positive rate across 200 attack scenarios. </text>
+      <text class="meta" x="48" y="87">C++ · REACT.JS · TYPESCRIPT · CYBER SECURITY · RESEARCH PAPER</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r2" transform="translate(0 130)">
       <text class="title" x="48" y="24">02 / COGNIHELM</text>
-      <text class="copy" x="48" y="49">Engineered a retrofittable embedded safety system with alcohol interlock and crash detection.[cite: 2]</text>
-      <text class="copy" x="48" y="68">Built a 4-level priority-interrupt firmware stack delivering crash-response latency under 300 ms.[cite: 2]</text>
-      <text class="meta" x="48" y="87">ESP32 · FREERTOS · MQTT · EMBEDDED SYSTEMS</text>
+      <text class="copy" x="48" y="49">Engineered a retrofittable embedded safety system with alcohol interlock and crash detection. </text>
+      <text class="copy" x="48" y="68">Built a 4-level priority-interrupt firmware stack delivering crash-response latency under 300 ms. </text>
+      <text class="meta" x="48" y="87">ESP32 · FREERTOS · MQTT · EMBEDDED SYSTEMS · RESEARCH PAPER</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r3" transform="translate(0 240)">
       <text class="title" x="48" y="24">03 / AI COMPANION AGENT</text>
-      <text class="copy" x="48" y="49">Built a viral full-stack AI agent implementing contextual memory and emotion sentiment detection.[cite: 2]</text>
-      <text class="copy" x="48" y="68">Scaled to 70,000+ users in 24 hours, optimizing cold-start latency via edge function deployment.[cite: 2]</text>
+      <text class="copy" x="48" y="49">Built a viral full-stack AI agent implementing contextual memory and emotion sentiment detection. </text>
+      <text class="copy" x="48" y="68">Scaled to 70,000+ users in 24 hours, optimizing cold-start latency via edge function deployment. </text>
       <text class="meta" x="48" y="87">NEXT.JS · ANTHROPIC API · EDGE FUNCTIONS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r4" transform="translate(0 350)">
       <text class="title" x="48" y="24">04 / LUMA SPACE PLATFORM</text>
-      <text class="copy" x="48" y="49">Built a complete D2C e-commerce tech stack independently with a serverless AWS backend.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Scaled to 5,000+ active users and implemented marketing automation and analytics dashboards.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Built a complete D2C e-commerce tech stack independently with a serverless AWS backend.</text>
+      <text class="copy" x="48" y="68">Scaled to 5,000+ active users and implemented marketing automation and analytics dashboards.</text>
       <text class="meta" x="48" y="87">AWS LAMBDA · NODE.JS · E-COMMERCE · ANALYTICS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r5" transform="translate(0 460)">
       <text class="title" x="48" y="24">05 / SENTIAID</text>
-      <text class="copy" x="48" y="49">Architected an AI-powered sign language translator using NLP and custom neural networks.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Processed 60,000+ words with Named Entity Recognition and deployed real-time REST APIs.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Architected an AI-powered sign language translator using NLP and custom neural networks.</text>
+      <text class="copy" x="48" y="68">Processed 60,000+ words with Named Entity Recognition and deployed real-time REST APIs.</text>
       <text class="meta" x="48" y="87">NLP · NEURAL NETWORKS · PYTHON · REST APIS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r6" transform="translate(0 570)">
       <text class="title" x="48" y="24">06 / MYFINPORTFOLIO</text>
-      <text class="copy" x="48" y="49">Architected production-ready features for web applications serving real-time FinTech data.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Optimised critical database queries, reducing latency on high-frequency financial data reads.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Architected production-ready features for web applications serving real-time FinTech data.</text>
+      <text class="copy" x="48" y="68">Optimised critical database queries, reducing latency on high-frequency financial data reads.</text>
       <text class="meta" x="48" y="87">REACT.JS · NODE.JS · EXPRESS · FINTECH</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r7" transform="translate(0 680)">
       <text class="title" x="48" y="24">07 / PGFY FRONTEND</text>
-      <text class="copy" x="48" y="49">Developed the flagship product frontend focusing on responsive UI architecture and component reusability.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Reduced page load time through lazy loading and memoisation strategies across the codebase.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Developed the flagship product frontend focusing on responsive UI architecture and component reusability.</text>
+      <text class="copy" x="48" y="68">Reduced page load time through lazy loading and memoisation strategies across the codebase.</text>
       <text class="meta" x="48" y="87">REACT.JS · GIT/GITHUB · AGILE · FRONTEND</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r8" transform="translate(0 790)">
       <text class="title" x="48" y="24">08 / FRAUDSHIELD API</text>
-      <text class="copy" x="48" y="49">Designed a fraud-detection API side project to identify anomalies in transaction pipelines.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Motivated by real-world financial transaction pipeline patterns observed during FinTech internship.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Designed a fraud-detection API side project to identify anomalies in transaction pipelines.</text>
+      <text class="copy" x="48" y="68">Motivated by real-world financial transaction pipeline patterns observed during FinTech internship.</text>
       <text class="meta" x="48" y="87">FINTECH · API DEVELOPMENT · FRAUD DETECTION</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r9" transform="translate(0 900)">
       <text class="title" x="48" y="24">09 / OUTLIER LLM EVALUATION</text>
-      <text class="copy" x="48" y="49">Evaluated and refined outputs of large language models using RLHF across advanced STEM domains.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Engineered prompts across 10+ parameter configurations to benchmark instruction-following and accuracy.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Evaluated and refined outputs of large language models using RLHF across advanced STEM domains.</text>
+      <text class="copy" x="48" y="68">Engineered prompts across 10+ parameter configurations to benchmark instruction-following and accuracy.</text>
       <text class="meta" x="48" y="87">RLHF · PROMPT ENGINEERING · STEM · AI QA</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r10" transform="translate(0 1010)">
       <text class="title" x="48" y="24">10 / FINANCIAL DATA PIPELINE</text>
-      <text class="copy" x="48" y="49">Built data cleaning, validation, and transformation pipelines in Python and Excel.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Designed Power BI dashboards to visualise key financial metrics and surface actionable insights.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Built data cleaning, validation, and transformation pipelines in Python and Excel.</text>
+      <text class="copy" x="48" y="68">Designed Power BI dashboards to visualise key financial metrics and surface actionable insights.</text>
       <text class="meta" x="48" y="87">PYTHON · PANDAS · POWER BI · EXCEL</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r11" transform="translate(0 1120)">
       <text class="title" x="48" y="24">11 / EDR SIMULATION ENGINE</text>
-      <text class="copy" x="48" y="49">Shipped a live simulation on Vercel for the Zero-Trust EDR risk-scoring model.[cite: 2]</text>
-      <text class="copy" x="48" y="68">Tested 200 attack scenarios including SideCopy APT, Babuk Locker 2.0, and C2 exfiltration.[cite: 2]</text>
+      <text class="copy" x="48" y="49">Shipped a live simulation on Vercel for the Zero-Trust EDR risk-scoring model. </text>
+      <text class="copy" x="48" y="68">Tested 200 attack scenarios including SideCopy APT, Babuk Locker 2.0, and C2 exfiltration. </text>
       <text class="meta" x="48" y="87">REACT.JS · VERCEL · SIMULATION · CYBER SECURITY</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r12" transform="translate(0 1230)">
       <text class="title" x="48" y="24">12 / CYBER THREAT RESPONSE</text>
-      <text class="copy" x="48" y="49">Worked on active cyber threat response and digital forensics for the UP Police program.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Gained hands-on exposure to cyber crime investigation workflows and evidence handling.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Worked on active cyber threat response and digital forensics for the UP Police program.</text>
+      <text class="copy" x="48" y="68">Gained hands-on exposure to cyber crime investigation workflows and evidence handling.</text>
       <text class="meta" x="48" y="87">DIGITAL FORENSICS · INCIDENT RESPONSE · SECURITY</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r13" transform="translate(0 1340)">
       <text class="title" x="48" y="24">13 / AI QUALITY ASSURANCE</text>
-      <text class="copy" x="48" y="49">Evaluated and rated content to inform AI model training for leading technology companies.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Analyzed complex data to provide insights for the continuous improvement of rating frameworks.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Evaluated and rated content to inform AI model training for leading technology companies.</text>
+      <text class="copy" x="48" y="68">Analyzed complex data to provide insights for the continuous improvement of rating frameworks.</text>
       <text class="meta" x="48" y="87">AI MODEL TRAINING · DATA ANALYSIS · QA</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r14" transform="translate(0 1450)">
       <text class="title" x="48" y="24">14 / SUPPLY CHAIN OPTIMIZATION</text>
-      <text class="copy" x="48" y="49">Implemented structured inventory management and demand planning practices for an FMCG business.[cite: 3]</text>
-      <text class="copy" x="48" y="68">Contributed to a ~30% reduction in operational inefficiencies through process improvement.[cite: 3]</text>
+      <text class="copy" x="48" y="49">Implemented structured inventory management and demand planning practices for an FMCG business.</text>
+      <text class="copy" x="48" y="68">Contributed to a ~30% reduction in operational inefficiencies through process improvement.</text>
       <text class="meta" x="48" y="87">OPERATIONS · INVENTORY CONTROL · DATA ANALYSIS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r15" transform="translate(0 1560)">
       <text class="title" x="48" y="24">15 / POST-QUANTUM CRYPTO</text>
-      <text class="copy" x="48" y="49">Integrated post-quantum cryptographic defences into a threat detection framework.[cite: 2]</text>
-      <text class="copy" x="48" y="68">Leveraged CRYSTALS-Kyber / FIPS 203 and BB84 QKD to secure communications against future threats.[cite: 2]</text>
+      <text class="copy" x="48" y="49">Integrated post-quantum cryptographic defences into a threat detection framework. </text>
+      <text class="copy" x="48" y="68">Leveraged CRYSTALS-Kyber / FIPS 203 and BB84 QKD to secure communications against future threats. </text>
       <text class="meta" x="48" y="87">CRYSTALS-KYBER · BB84 QKD · CRYPTOGRAPHY</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
